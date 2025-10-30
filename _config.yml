@@ -101,6 +101,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repository: 'https://github.com/geteng/geteng.github.io.git'
-  branch: 'main'
+  type: git
+  repository: https://github.com/geteng/geteng.github.io.git
+  branch: main
